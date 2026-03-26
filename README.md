@@ -126,6 +126,3 @@ Após o login, o usuário recebe um token que deve ser enviado no header das req
 
 Leonardo Godoy
 
----
-
-## ⭐ Projeto para fins de estudo e portfólio
